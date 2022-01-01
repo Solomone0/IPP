@@ -1,4 +1,4 @@
-1=git clone 
+1=git clone https://github.com/Solomone0/IPP.git
 2=ls
 3=cd IPP
 4=ls
